@@ -1,0 +1,2 @@
+import random
+print("random nuber:"random.randint(10,100))
